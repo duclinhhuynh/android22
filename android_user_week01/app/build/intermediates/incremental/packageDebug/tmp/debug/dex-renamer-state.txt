@@ -1,4 +1,0 @@
-#Mon Aug 29 17:27:21 ICT 2022
-base.0=E\:\\android 22\\android_user_week01\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
