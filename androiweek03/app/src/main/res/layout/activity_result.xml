@@ -3,17 +3,18 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/c7f8d8fa45279e281554999484f2b912">
 
     <Button
         android:id="@+id/btn_back"
-        android:layout_width="206dp"
-        android:layout_height="78dp"
-        android:layout_marginTop="408dp"
-        android:background="@color/design_default_color_primary"
+        android:layout_width="205dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="232dp"
+        android:background="@drawable/__2zm_i1lzlynfh62vi1rztg"
         android:text="back"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.57"
+        app:layout_constraintHorizontal_bias="0.577"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
