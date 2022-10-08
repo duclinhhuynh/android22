@@ -1,14 +1,11 @@
 package admin.example.sytheticapp;
 
-import android.app.Activity;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.ListView;
-import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-import android.app.Activity;
+
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
@@ -30,12 +27,12 @@ public class MainActivity extends AppCompatActivity {
         lvFood = (ListView) findViewById(R.id.lv_food);
         arrayFood = new ArrayList<>();
         arrayFood.add(new Food("Ramen", "Ramen in Japan", R.drawable.ramen));
-        arrayFood.add(new Food("Pizza", "Piza in Japan", R.drawable.pizza));
-        arrayFood.add(new Food("Salad", "Piza in Japan", R.drawable.salad));
-        arrayFood.add(new Food("Pasta", "Piza in Japan", R.drawable.pasta));
-        arrayFood.add(new Food("Onion", "Piza in Japan", R.drawable.noodles));
-        arrayFood.add(new Food("Spageti", "Piza in Japan", R.drawable.ramen));
-        arrayFood.add(new Food("Spageti", "Piza in Japan", R.drawable.ramen));
+        arrayFood.add(new Food("Pizza", "Piza cheese", R.drawable.pizza));
+        arrayFood.add(new Food("Salad", "Salad special", R.drawable.salad));
+        arrayFood.add(new Food("Pasta", "Pasta Italia", R.drawable.pasta));
+        arrayFood.add(new Food("Noodles", "From VietNam with love", R.drawable.noodles));
+        arrayFood.add(new Food("Spageti", "Spageti from Italia", R.drawable.ramen));
+        arrayFood.add(new Food("Burger", "Burger meal", R.drawable.pop_2));
     }
 
 }

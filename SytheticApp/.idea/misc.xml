@@ -12,6 +12,7 @@
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/drawable/bg_food.xml" value="0.115" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/drawable/bg_right.xml" value="0.128" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/drawable/border.xml" value="0.1235" />
+        <entry key="..\:/android 22/SytheticApp/app/src/main/res/drawable/card_background.xml" value="0.1535" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/drawable/cart_background.xml" value="0.1" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/drawable/gradient.xml" value="0.1235" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1235" />
@@ -24,17 +25,20 @@
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/drawable/img_right.xml" value="0.128" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/drawable/light_light_banner.xml" value="0.1545" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/drawable/seach_background.xml" value="0.1535" />
+        <entry key="..\:/android 22/SytheticApp/app/src/main/res/drawable/viewholder_popular.xml" value="0.1545" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/font/font_dish.xml" value="0.17395833333333333" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/activity_main_food.xml" value="0.264" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/activity_main_frofile.xml" value="0.16" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/activity_main_login.xml" value="0.2" />
-        <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/activity_main_profile.xml" value="0.2" />
+        <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/activity_main_profile.xml" value="0.2322472848788638" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/activity_main_register.xml" value="0.2" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/activity_main_typefood.xml" value="0.14990138067061143" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/activity_main_typeof.xml" value="0.12952898550724637" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/activity_show_detail.xml" value="0.264" />
         <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/viewholder_category.xml" value="0.4" />
+        <entry key="..\:/android 22/SytheticApp/app/src/main/res/layout/viewholder_popular.xml" value="0.4" />
       </map>
     </option>
   </component>
