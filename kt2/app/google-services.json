@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783923876090",
+    "firebase_url": "https://kt2firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kt2firebase",
+    "storage_bucket": "kt2firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783923876090:android:fc661605f27aa45eab3943",
+        "android_client_info": {
+          "package_name": "admin.example.kt2_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783923876090-kmqdoobtvjntqvr4sinm2d0u3j5fu0m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9dFEQYMfgVquJ7BW4wd8cAyUqtBDOlq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783923876090-kmqdoobtvjntqvr4sinm2d0u3j5fu0m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
