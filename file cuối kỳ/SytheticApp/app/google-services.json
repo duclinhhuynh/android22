@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1455660355",
+    "project_id": "sytheticapp",
+    "storage_bucket": "sytheticapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1455660355:android:63229cc69fcff8486fa3f6",
+        "android_client_info": {
+          "package_name": "admin.example.sytheticapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1455660355-14tm3rnf2c7b7furlo0tv9qjljrqq46s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfFOANHYUSincBEdUPAVV4Wra391RvWcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1455660355-14tm3rnf2c7b7furlo0tv9qjljrqq46s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
